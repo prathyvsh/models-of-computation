@@ -1,0 +1,11 @@
+* Models of Computation
+
+** Jacquard Loom
+** Kleene Algebra
+** Boolean Algebra
+** Cellular Automata
+** Lambda Calculus
+** Post Tag Machines
+** Turing Machine
+** Wang Tiles
+** [[https://en.wikipedia.org/wiki/Wang_B-machine][Wang Machines]]

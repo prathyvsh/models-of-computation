@@ -1,6 +1,6 @@
 * Models of Computation
 
-* Early Works
+*Early Works*
 ---------
 
 * Recursive Function Theory

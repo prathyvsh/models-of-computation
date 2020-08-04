@@ -24,6 +24,9 @@ Skolem’s paper Begründung Der Elementaren Arithmetik Durch Die Rekurrierende 
 *** Über das Unendliche (On the infinite) — David Hilbert (1926)
 *** Grundzüge der theoretischen Logik – David Hilbert and Wilhelm Ackermann (1928)
 *** Grundlagen der Mathematik, Vol. I – David Hilbert and Paul Bernays (1934)
+*** General Recursive Functions of Natural Numbers – Stephen Kleene (1936)
+*** λ-Definability and Recursiveness – Stephen Kleene (1936)
+*** Introduction to Metamathematics – Stephen Kleene (1952)
 
 *** Kleene
 

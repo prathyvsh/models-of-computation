@@ -13,6 +13,12 @@ Skolem’s paper Begründung Der Elementaren Arithmetik Durch Die Rekurrierende 
 ** Main Works
 *** Was sind und was sollen die Zahlen (1888)
 *** Begründung Der Elementaren Arithmetik Durch Die Rekurrierende Denkweise Ohne Anwendung Scheinbarer Veranderlichen Mit Unendlichem Ausdehnungsbereich (1923)
+*** Les Bases de la Logique Hilbertienne – Jacques Herbrand (1930)
+*** Sur La Non-Contradiction de l’Arithmétique – Jacques Herbrand (1932)
+*** Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme, I — Kurt Gödel (1931)
+*** Rekursive Funktionen Paper – Rózsa Péter (1932)
+*** Rekursive Funktionen Book – Rózsa Péter (1951)
+*** Kleene
 
 ** Jacquard Loom
 ** Kleene Algebra

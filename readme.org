@@ -1,6 +1,7 @@
 * Models of Computation
 
-** Early Works
+* Early Works
+---------
 
 * Recursive Function Theory
 Recursive function theory is a model of computability that emerged from the work in number theory.
@@ -8,6 +9,10 @@ Recursive function theory is a model of computability that emerged from the work
 Earliest instance of recursive functions can be found in antiquity, though some of the most recent recorded treatments is found in the work of Grassmann and Peirce in defining addition and multiplication. A canonical work that makes use of recursive function is Dedekind’s Was sind und was sollen die Zahlen (1888). Peano builds upon this work for creating a logical foundation of mathematics which would then be used by Russell and Whitehead in their Principia Mathematica (1910—1913).
 
 Skolem’s paper Begründung Der Elementaren Arithmetik Durch Die Rekurrierende Denkweise Ohne Anwendung Scheinbarer Veranderlichen Mit Unendlichem Ausdehnungsbereich (The foundations of elementary arithmetic established by the recursive mode of thought, without the use of apparent variables ranging over infinite domains) (1923) is also considered a fundamental advancement in making this mode of thinking first class.
+
+** Main Works
+*** Was sind und was sollen die Zahlen (1888)
+*** Begründung Der Elementaren Arithmetik Durch Die Rekurrierende Denkweise Ohne Anwendung Scheinbarer Veranderlichen Mit Unendlichem Ausdehnungsbereich (1923)
 
 ** Jacquard Loom
 ** Kleene Algebra

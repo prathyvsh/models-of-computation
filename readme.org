@@ -18,6 +18,13 @@ Skolem’s paper Begründung Der Elementaren Arithmetik Durch Die Rekurrierende 
 *** Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme, I — Kurt Gödel (1931)
 *** Rekursive Funktionen Paper – Rózsa Péter (1932)
 *** Rekursive Funktionen Book – Rózsa Péter (1951)
+*** Logic-Kalkül (Lectures on Logic) – David Hilbert (1920)
+*** Neubegründung der Mathematik. Erste Mitteilung (The new grounding of mathematics: First report) – David Hilbert (1922)
+*** Die logischen Grundlagen der Mathematik (The logical foundations of mathematics) – David Hilbert (1923)
+*** Über das Unendliche (On the infinite) — David Hilbert (1926)
+*** Grundzüge der theoretischen Logik – David Hilbert and Wilhelm Ackermann (1928)
+*** Grundlagen der Mathematik, Vol. I – David Hilbert and Paul Bernays (1934)
+
 *** Kleene
 
 ** Jacquard Loom
